@@ -49,7 +49,7 @@
                 "tags": "Android • Kotlin • UI",
                 "desc": "Mobile utilities: BMI, converters and quotes.",
                 "link": "https://gitlab.com/desarrollo-de-aplicaciones-moviles1/mi-aplicacion-movile",
-                "previewGif": "/mi aplicacion.jpg"
+                "previewGif": "./mi aplicacion.jpg"
             },
             {
                 "title": "Web Project / Cenaduria Chayito",
