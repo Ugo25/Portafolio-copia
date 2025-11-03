@@ -30,7 +30,7 @@ export default function Navbar() {
             <div className="mx-auto max-w-6xl px-4 h-16 flex items-center justify-between">
                 <a href="#inicio" className="flex items-center gap-2">
                     <ShieldIcon className="w-5 h-5 text-emerald-400" />
-                    <span className="font-semibold">Hugo Acosta</span>
+                    <span className="font-semibold">Hugo Enrique Acosta Sanchez</span>
                 </a>
 
 
