@@ -1,0 +1,104 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About me",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact",
+        "openMenu": "Open menu"
+    },
+    "skills": {
+        "title": "Skills",
+        "subtitle": "Technologies and languages I am currently working with:",
+        "advanced": {
+            "title": "Advanced",
+            "items": [
+                "HTML",
+                "CSS"
+            ]
+        },
+        "intermediate": {
+            "title": "Intermediate",
+            "items": [
+                "Kotlin (Android)",
+                "Java",
+                "C",
+                "C++"
+            ]
+        },
+        "inProgress": {
+            "title": "In Progress",
+            "items": [
+                "Networking (CCNA)",
+                "Pentester"
+            ]
+        }
+    },
+    "projects": {
+        "title": "Projects",
+        "items": [
+            {
+                "title": "Files-to-PDF",
+                "tags": "Java Swing • PDFBox • Desktop",
+                "desc": "Desktop app to convert, merge, split, and watermark PDFs with preview.",
+                "link": "https://github.com/Ugo25/Files-to-PDF"
+            },
+            {
+                "title": "AppMovil043",
+                "tags": "Android • Kotlin • UI",
+                "desc": "Mobile utilities: BMI, converters and quotes.",
+                "link": "https://gitlab.com/desarrollo-de-aplicaciones-moviles1/mi-aplicacion-movile"
+            },
+            {
+                "title": "Web Project / Cenaduria Chayito",
+                "tags": "HTML • CSS",
+                "desc": "Landing page with animated background and modular structure.",
+                "link": "https://github.com/Ugo25/CenaduriaChayito"
+            }
+        ]
+    },
+    "hero": {
+        "line1": "Developer",
+        "line2": "Web & Mobile •",
+        "line3": "IT Student",
+        "line4": "Road to CCNA",
+        "line5": "Red Team",
+        "description": "I build clear interfaces and useful tools. I specialize in <1>HTML/CSS</1> and <2>Android (Kotlin)</2>, with a base in <3>C</3>, <4>C++</4> and <5>Java</5>. Deepening my knowledge in Cisco networking and offensive cybersecurity.",
+        "buttonProjects": "View projects",
+        "buttonContact": "Contact",
+        "githubLabel": "GitHub",
+        "gitlabLabel": "GitLab",
+        "emailLabel": "Email",
+        "skillsNote": "* VLANs, DHCP, Routing, Subnetting, and basic pentesting."
+    },
+    "about": {
+        "title": "About me",
+        "description": "Passionate about technology and continuous learning. I like to create projects that combine design, functionality, and purpose. I am focused on growing as a developer and strengthening my skills in networking and computer security.",
+        "cards": [
+            {
+                "title": "Web & Mobile Dev",
+                "desc": "HTML/CSS, React, Android (Kotlin)"
+            },
+            {
+                "title": "Solid Foundation",
+                "desc": "C, C++, Java"
+            },
+            {
+                "title": "Network Focused",
+                "desc": "Road to CCNA & Red Team"
+            }
+        ]
+    },
+    "certifications": {
+        "title": "Cisco Certifications",
+        "subtitle": "Credentials obtained through Cisco Networking Academy"
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Contact me on my social networks",
+        "email": "Email",
+        "github": "GitHub",
+        "gitlab": "Gitlab",
+        "linkedin": "LinkedIn"
+    }
+}

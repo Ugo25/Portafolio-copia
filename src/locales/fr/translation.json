@@ -1,0 +1,128 @@
+
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact",
+    "openMenu": "Ouvrir le menu"
+  },
+  "skills": {
+    "title": "Compétences",
+    "subtitle": "Technologies et langages avec lesquels je travaille actuellement :",
+    "advanced": {
+      "title": "Avancé",
+      "items": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    "intermediate": {
+      "title": "Intermédiaire",
+      "items": [
+        "Kotlin (Android)",
+        "Java",
+        "C",
+        "C++"
+      ]
+    },
+    "inProgress": {
+      "title": "En cours",
+      "items": [
+        "Réseaux (CCNA)",
+        "Pentester"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projets",
+    "items": [
+      {
+        "title": "Fichiers en PDF",
+        "tags": "Java Swing • PDFBox • Bureau",
+        "desc": "App de bureau pour convertir, fusionner, diviser et marquer des PDF avec aperçu.",
+        "link": "https://github.com/Ugo25/Files-to-PDF"
+      },
+      {
+        "title": "AppMovil043",
+        "tags": "Android • Kotlin • UI",
+        "desc": "Utilitaires mobiles : IMC, convertisseurs et cotations.",
+        "link": "https://gitlab.com/desarrollo-de-aplicaciones-moviles1/mi-aplicacion-movile"
+      },
+      {
+        "title": "Projet Web / Cenaduria Chayito",
+        "tags": "HTML • CSS",
+        "desc": "Landing page avec fond animé et structure modulaire.",
+        "link": "https://github.com/Ugo25/CenaduriaChayito"
+      }
+    ]
+  },
+  "hero": {
+    "line1": "Développeur",
+    "line2": "Web & Mobile •",
+    "line3": "Étudiant en Informatique",
+    "line4": "En route pour CCNA",
+    "line5": "Équipe Rouge",
+    "description": "Je construis des interfaces claires et des outils utiles. Je me spécialise en <1>HTML/CSS</1> et <2>Android (Kotlin)</2>, avec une base en <3>C</3>, <4>C++</4> et <5>Java</5>. J'approfondis mes connaissances en réseaux Cisco et en cybersécurité offensive.",
+    "buttonProjects": "Voir les projets",
+    "buttonContact": "Contact",
+    "githubLabel": "GitHub",
+    "gitlabLabel": "GitLab",
+    "emailLabel": "Email",
+    "skillsNote": "* VLANs, DHCP, Routage, Subnetting, et pentesting de base."
+  },
+  "about": {
+    "title": "À propos de moi",
+    "description": "Passionné par la technologie et l'apprentissage continu. J'aime créer des projets qui allient design, fonctionnalité et objectif. Je me concentre sur ma croissance en tant que développeur et sur le renforcement de mes compétences en réseaux et sécurité informatique.",
+    "cards": [
+      {
+        "title": "Dév. Web & Mobile",
+        "desc": "HTML/CSS, React, Android (Kotlin)"
+      },
+      {
+        "title": "Base solide",
+        "desc": "C, C++, Java"
+      },
+      {
+        "title": "Axé sur les réseaux",
+        "desc": "En route pour CCNA et Red Team"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications Cisco",
+    "subtitle": "Accréditations obtenues via la Cisco Networking Academy",
+    "items": [
+      {
+        "title": "CCNA: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco",
+        "date": "1 Avr, 2025"
+      },
+      {
+        "title": "CCNA: Introduction to Networks",
+        "issuer": "Cisco",
+        "date": "7 Déc, 2024"
+      },
+      {
+        "title": "Network Technician Career Path",
+        "issuer": "Cisco",
+        "date": "21 Avr, 2025"
+      },
+      {
+        "title": "Networking Academy Learn-A-Thon 2025",
+        "issuer": "Cisco",
+        "date": "27 Juin, 2025"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactez-moi sur mes réseaux sociaux",
+    "email": "E-smail",
+    "github": "GitHub",
+    "gitlab": "Gitlab",
+    "linkedin": "LinkedIn"
+  }
+}

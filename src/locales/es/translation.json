@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "openMenu": "Abrir menú"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Tecnologías y lenguajes con los que trabajo actualmente:",
+    "advanced": {
+      "title": "Avanzado",
+      "items": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    "intermediate": {
+      "title": "Intermedio",
+      "items": [
+        "Kotlin (Android)",
+        "Java",
+        "C",
+        "C++"
+      ]
+    },
+    "inProgress": {
+      "title": "En curso",
+      "items": [
+        "Redes (CCNA)",
+        "Pentester"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "items": [
+      {
+        "title": "Files-to-PDF",
+        "tags": "Java Swing • PDFBox • Desktop",
+        "desc": "App de escritorio para convertir, unir, dividir y marcar PDFs con vista previa.",
+        "link": "https://github.com/Ugo25/Files-to-PDF"
+      },
+      {
+        "title": "AppMovil043",
+        "tags": "Android • Kotlin • UI",
+        "desc": "Utilidades móviles: IMC, conversores y cotizaciones.",
+        "link": "https://gitlab.com/desarrollo-de-aplicaciones-moviles1/mi-aplicacion-movile"
+      },
+      {
+        "title": "Proyecto Web / Cenaduria Chayito",
+        "tags": "HTML • CSS",
+        "desc": "Landing con fondo animado y estructura modular.",
+        "link": "https://github.com/Ugo25/CenaduriaChayito"
+      }
+    ]
+  },
+  "hero": {
+    "line1": "Desarrollador",
+    "line2": "Web & Móvil •",
+    "line3": "Estudiante TI",
+    "line4": "Rumbo a CCNA",
+    "line5": "Red Team",
+    "description": "Construyo interfaces claras y herramientas útiles. Me especializo en <1>HTML/CSS</1> y <2>Android (Kotlin)</2>, con base en <3>C</3>, <4>C++</4> y <5>Java</5>. Profundizando en redes Cisco y ciberseguridad ofensiva.",
+    "buttonProjects": "Ver proyectos",
+    "buttonContact": "Contacto",
+    "buttonCV": "Descargar CV",
+    "githubLabel": "GitHub",
+    "gitlabLabel": "GitLab",
+    "emailLabel": "Email",
+    "skillsNote": "* VLANs, DHCP, Routing, Subnetting, y pentesting básico.",
+    "skillBadges": [
+      "HTML/CSS",
+      "Android (Kotlin)",
+      "Java",
+      "C",
+      "C++",
+      "Cisco / CCNA"
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "Apasionado por la tecnología y el aprendizaje continuo. Me gusta crear proyectos que combinen diseño, funcionalidad y propósito. Estoy enfocado en crecer como desarrollador y fortalecer mis habilidades en redes y seguridad informática.",
+    "cards": [
+      {
+        "title": "Dev Web & Móvil",
+        "desc": "HTML/CSS, React, Android (Kotlin)"
+      },
+      {
+        "title": "Base sólida",
+        "desc": "C, C++, Java"
+      },
+      {
+        "title": "Enfocado a redes",
+        "desc": "Rumbo a CCNA y Red Team"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certificaciones Cisco",
+    "subtitle": "Acreditaciones obtenidas a través de Cisco Networking Academy",
+    "items": [
+      {
+        "title": "CCNA: Switching, Routing, and Wireless Essentials",
+        "issuer": "Cisco",
+        "date": "Abr 1, 2025"
+      },
+      {
+        "title": "CCNA: Introduction to Networks",
+        "issuer": "Cisco",
+        "date": "Dic 7, 2024"
+      },
+      {
+        "title": "Network Technician Career Path",
+        "issuer": "Cisco",
+        "date": "Abr 21, 2025"
+      },
+      {
+        "title": "Networking Academy Learn-A-Thon 2025",
+        "issuer": "Cisco",
+        "date": "Jun 27, 2025"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Contáctame en mis redes Sociales",
+    "email": "Email",
+    "github": "GitHub",
+    "gitlab": "Gitlab",
+    "linkedin": "LinkedIn"
+  }
+}
