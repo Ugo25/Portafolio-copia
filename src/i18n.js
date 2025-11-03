@@ -9,7 +9,7 @@ import translationFR from './locales/fr/translation.json';
 
 // Los recursos (traducciones)
 const resources = {
-    es: {
+es: {
     translation: translationES
   },
   en: {

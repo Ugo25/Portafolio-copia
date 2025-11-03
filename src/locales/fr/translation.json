@@ -128,5 +128,8 @@
     "github": "GitHub",
     "gitlab": "Gitlab",
     "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© 2025 Hugo Acosta. Tous droits réservés."
   }
 }
