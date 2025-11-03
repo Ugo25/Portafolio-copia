@@ -41,19 +41,22 @@
                 "title": "Files-to-PDF",
                 "tags": "Java Swing • PDFBox • Desktop",
                 "desc": "Desktop app to convert, merge, split, and watermark PDFs with preview.",
-                "link": "https://github.com/Ugo25/Files-to-PDF"
+                "link": "https://github.com/Ugo25/Files-to-PDF",
+                "previewGif": "/public/inicio.png"
             },
             {
                 "title": "AppMovil043",
                 "tags": "Android • Kotlin • UI",
                 "desc": "Mobile utilities: BMI, converters and quotes.",
-                "link": "https://gitlab.com/desarrollo-de-aplicaciones-moviles1/mi-aplicacion-movile"
+                "link": "https://gitlab.com/desarrollo-de-aplicaciones-moviles1/mi-aplicacion-movile",
+                "previewGif": "/public/mi aplicacion.jpg"
             },
             {
                 "title": "Web Project / Cenaduria Chayito",
                 "tags": "HTML • CSS",
                 "desc": "Landing page with animated background and modular structure.",
-                "link": "https://github.com/Ugo25/CenaduriaChayito"
+                "link": "https://github.com/Ugo25/CenaduriaChayito",
+                "previewGif": "/public/Cenaduria.png"
             }
         ]
     },

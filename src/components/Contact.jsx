@@ -22,7 +22,7 @@ export default function Contact() {
                 <a href="https://gitlab.com/Ugo25" className="px-4 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800 flex items-center gap-2 justify-center">
                     <GitLabIcon className="w-4 h-4" /> {t('contact.gitlab')}
                 </a>
-                <a href="https://www.linkedin.com/in/tu-perfil" className="px-4 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800 flex items-center gap-2 justify-center">
+                <a href="https://www.linkedin.com/in/hugo-acosta-a9b5aa395" className="px-4 py-2 rounded-xl border border-neutral-700 hover:bg-neutral-800 flex items-center gap-2 justify-center">
                     <LinkedInIcon className="w-4 h-4" /> {t('contact.linkedin')}
                 </a>
             </div>
