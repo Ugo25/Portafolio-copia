@@ -42,21 +42,21 @@
         "tags": "Java Swing • PDFBox • Desktop",
         "desc": "App de escritorio para convertir, unir, dividir y marcar PDFs con vista previa.",
         "link": "https://github.com/Ugo25/Files-to-PDF",
-        "previewGif": "/public/inicio.png"
+        "previewGif": "/inicio.png"
       },
       {
         "title": "AppMovil043",
         "tags": "Android • Kotlin • UI",
         "desc": "Utilidades móviles: IMC, conversores y cotizaciones.",
         "link": "https://gitlab.com/desarrollo-de-aplicaciones-moviles1/mi-aplicacion-movile",
-        "previewGif": "/public/mi aplicacion.jpg"
+        "previewGif": "/mi aplicacion.jpg"
       },
       {
         "title": "Proyecto Web / Cenaduria Chayito",
         "tags": "HTML • CSS",
         "desc": "Landing con fondo animado y estructura modular.",
         "link": "https://github.com/Ugo25/CenaduriaChayito",
-        "previewGif": "/public/Cenaduria.png"
+        "previewGif": "/Cenaduria.png"
       }
     ]
   },
