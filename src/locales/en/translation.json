@@ -66,6 +66,7 @@
         "description": "I build clear interfaces and useful tools. I specialize in <1>HTML/CSS</1> and <2>Android (Kotlin)</2>, with a base in <3>C</3>, <4>C++</4> and <5>Java</5>. Deepening my knowledge in Cisco networking and offensive cybersecurity.",
         "buttonProjects": "View projects",
         "buttonContact": "Contact",
+        "buttonCV": "Download CV",
         "githubLabel": "GitHub",
         "gitlabLabel": "GitLab",
         "emailLabel": "Email",
